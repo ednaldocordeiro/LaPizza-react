@@ -1,5 +1,4 @@
 # La Pizza🍕 - react
-<p><img src="home.png"></p>
 
   ## 🖥 Projeto
   Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de React e Typescript.
